@@ -1,5 +1,7 @@
-<center><h1>Coding Drill:  jQuery DOM Traversal Exercise.</h1></center>
-
+<center><h1>Coding Drill:  jQuery DOM Traversal Practice Exercise</h1></center>
+ 
+ <center> **The following steps in the lesson will give you additional practice using jQuery and DOM Traversal statements.**</center>
+ 
 <ol>
 <li>Preview the <b>index.htm</b> web page in a browser by right-clicking on the file and selecting "Preview static".  </li>
 <li>Open the <b>browser tool</b> that lets you inspect the DOM of the current web page using the method for your browser:

@@ -2,11 +2,14 @@
  "sections": [
   {
    "id": "1ba17f-1e99-282c-5353-8ab7bb8e912d",
-   "title": "Overview (50 pts)",
+   "title": "Overview (75 pts)",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Overview--50-pts--1ba1.md"
+   "content-file": ".guides/content/Overview--75-pts--1ba1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "ea613e1e-255f-19e9-e266-32f4db213c32",
@@ -14,7 +17,10 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/--Step-1-ea61.md"
+   "content-file": ".guides/content/--Step-1-ea61.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "938ce1be-1c3b-8175-a60a-37e9e9cc4d09",
@@ -22,7 +28,10 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/--Step-2-938c.md"
+   "content-file": ".guides/content/--Step-2-938c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "c81b7e3e-69b1-f2c9-6571-bf59aa26b4f8",
@@ -30,15 +39,10 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/--Step-3-c81b.md"
-  },
-  {
-   "id": "5209db59-accf-174a-6d57-cbcaeae06450",
-   "title": "Git Repository",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/New-Section-11-5209.md"
+   "content-file": ".guides/content/--Step-3-c81b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "c1bd214-91e5-4ef8-e6b3-28a34782510a",
@@ -46,7 +50,10 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Coding-Drill--1-c1bd.md"
+   "content-file": ".guides/content/Coding-Drill--1-c1bd.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "4a9bb224-77fe-3426-ed57-d3ba17373de2",
@@ -54,7 +61,10 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Coding-Drill--2-4a9b.md"
+   "content-file": ".guides/content/Coding-Drill--2-4a9b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "2d51c721-a2a5-37ae-ad83-6f9b86565ba8",
@@ -62,7 +72,10 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Coding-Drill--3-2d51.md"
+   "content-file": ".guides/content/Coding-Drill--3-2d51.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "2e1317c3-9477-5bab-4e52-2c74e764d132",
@@ -70,15 +83,21 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Coding-Drill--4-2e13.md"
+   "content-file": ".guides/content/Coding-Drill--4-2e13.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "41ced391-a068-96e4-5a19-b6412eb74ec6",
-   "title": "Project Quiz (25 pts)",
+   "title": "Project Quiz ",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Project-Quiz--25-pts--41ce.md"
+   "content-file": ".guides/content/Project-Quiz--25-pts--41ce.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "ce25dc3-9f55-ce51-f8a3-a0cc240fc4af",
@@ -86,9 +105,24 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Extra-Credit---4--ce25.md"
+   "content-file": ".guides/content/Extra-Credit---4--ce25.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "5209db59-accf-174a-6d57-cbcaeae06450",
+   "title": "Git Repository (10 pts)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Git-Repository--10-pts--5209.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
   }
  ],
  "theme": "paper",
- "scripts": []
+ "scripts": [],
+ "lexikonTopic": ""
 }

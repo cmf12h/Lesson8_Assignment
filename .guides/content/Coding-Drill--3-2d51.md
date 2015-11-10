@@ -16,14 +16,14 @@ In the browser, display the <b>"index.htm"</b> file and open the JavaScript Cons
 <li>
 Type the following statement in the Javascript Console, then press enter.  Observe the changes made to the application.
 <br>
-<center><b>$("div").append("&ltcenter>Bon Appetit!!!&lt/center>")</b></center>
+<center><b>$("div").append("&lt center>Bon Appetit!!!&lt/center>")</b></center>
 <br><center><b>RESULT - Demonstrating "append()":</b></center><br><center>
 <img src=".guides/img/trav13.png" alt="" /></center>
 </li>
 
 
 <li>
-Type the following statement in the Javascript Console, then press enter.  Observe the changes made to the application.  <br><center><b>$("h1").after("&ltcenter>Bon Appetit!!!&lt/center>")</b></center>
+Type the following statement in the Javascript Console, then press enter.  Observe the changes made to the application.  <br><center><b>$("h1").after("&lt center>Bon Appetit!!!&lt/center>")</b></center>
 <br><center><b>RESULT - Demonstrating "after()":</b></center><br><center>
 <img src=".guides/img/trav14.png" alt="" /></center>
 </li>
